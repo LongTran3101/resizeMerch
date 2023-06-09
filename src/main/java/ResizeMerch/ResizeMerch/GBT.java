@@ -189,7 +189,7 @@ public class GBT extends JFrame {
 		getContentPane().add(btnNewButton);
 		
 		key = new JTextField();
-		key.setText("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");
+		key.setText("");
 		key.setColumns(10);
 		key.setBounds(79, 108, 258, 32);
 		getContentPane().add(key);
